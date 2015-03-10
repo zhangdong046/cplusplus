@@ -1,0 +1,20 @@
+unknown|0                  18
+Action|1  动作             17
+Adventure|2  冒险          16
+Animation|3  动画片        0
+Children's|4               1  
+Comedy|5  喜剧             11
+Crime|6 罪犯               5
+Documentary|7 纪录片       9
+Drama|8  戏剧              13
+Fantasy|9  幻想            14
+Film-Noir|10  黑色电影     8
+Horror|11 恐怖             2          
+Musical|12 音乐            10
+Mystery|13 神秘            15
+Romance|14 浪漫            6
+Sci-Fi|15 科幻             7
+Thriller|16 恐怖           3
+War|17 战争                4
+Western|18 西部电影        12
+
